@@ -1,7 +1,0 @@
-C:\Users\Lima\Documents\Pablo\UTN\3° Semestre\Laboratorio Computación III\01-Introducción\obj\Debug\Puntos_01_03.csproj.AssemblyReference.cache
-C:\Users\Lima\Documents\Pablo\UTN\3° Semestre\Laboratorio Computación III\01-Introducción\obj\Debug\Puntos_01_03.csproj.CoreCompileInputs.cache
-C:\Users\Lima\Documents\Pablo\UTN\3° Semestre\Laboratorio Computación III\01-Introducción\obj\Debug\01-Introducción.exe
-C:\Users\Lima\Documents\Pablo\UTN\3° Semestre\Laboratorio Computación III\01-Introducción\obj\Debug\01-Introducción.pdb
-C:\Users\Lima\Documents\Pablo\UTN\3° Semestre\Laboratorio Computación III\01-Introducción\bin\Debug\01-Introducción.exe.config
-C:\Users\Lima\Documents\Pablo\UTN\3° Semestre\Laboratorio Computación III\01-Introducción\bin\Debug\01-Introducción.exe
-C:\Users\Lima\Documents\Pablo\UTN\3° Semestre\Laboratorio Computación III\01-Introducción\bin\Debug\01-Introducción.pdb
