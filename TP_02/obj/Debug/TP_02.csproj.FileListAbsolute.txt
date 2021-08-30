@@ -1,0 +1,7 @@
+C:\Users\Lima\source\repos\TP_02\obj\Debug\TP_02.csproj.AssemblyReference.cache
+C:\Users\Lima\source\repos\TP_02\obj\Debug\TP_02.csproj.CoreCompileInputs.cache
+C:\Users\Lima\source\repos\TP_02\bin\Debug\TP_02.exe.config
+C:\Users\Lima\source\repos\TP_02\bin\Debug\TP_02.exe
+C:\Users\Lima\source\repos\TP_02\bin\Debug\TP_02.pdb
+C:\Users\Lima\source\repos\TP_02\obj\Debug\TP_02.exe
+C:\Users\Lima\source\repos\TP_02\obj\Debug\TP_02.pdb
