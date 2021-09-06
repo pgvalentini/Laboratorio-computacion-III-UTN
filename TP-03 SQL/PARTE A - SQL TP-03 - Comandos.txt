@@ -1,0 +1,23 @@
+SELECT * FROM City;
+
+SELECT NAME, `Population` FROM `City`;
+
+SELECT NAME, `Population` FROM `City` LIMIT 10;
+
+SELECT NAME, `Population` FROM `City` ORDER BY NAME;
+
+SELECT NAME,AVG(`Population`) FROM `City` GROUP BY `District`;
+
+SELECT `CountryCode`, SUM(`Population`) FROM City GROUP BY `CountryCode`;
+
+SELECT NAME, `Population` FROM `City` WHERE `Population`>100000;
+
+SELECT NAME, `Population` FROM `City` WHERE `Population`<100000;
+
+SELECT NAME, `Population` FROM `City` WHERE `Population` BETWEEN 100001 AND 9999999;
+
+SELECT NAME, `CountryCode` FROM `City` WHERE CountryCode = 'NLD';
+
+SELECT NAME, `CountryCode` FROM `City` WHERE CountryCode = 'AFG' OR CountryCode = 'CAN' OR CountryCode = 'MEX' ;
+
+SELECT NAME, `CountryCode` FROM `City` WHERE NAME LIKE P% ;
