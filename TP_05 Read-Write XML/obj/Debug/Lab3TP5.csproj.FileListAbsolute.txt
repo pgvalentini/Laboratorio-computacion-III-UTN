@@ -1,0 +1,7 @@
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP5\obj\Debug\Lab3TP5.csproj.AssemblyReference.cache
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP5\obj\Debug\Lab3TP5.csproj.CoreCompileInputs.cache
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP5\bin\Debug\Lab3TP5.exe.config
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP5\bin\Debug\Lab3TP5.exe
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP5\bin\Debug\Lab3TP5.pdb
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP5\obj\Debug\Lab3TP5.exe
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP5\obj\Debug\Lab3TP5.pdb
