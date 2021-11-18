@@ -1,0 +1,7 @@
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP9Lab3Pt2\bin\Debug\TP9Lab3Pt2.exe.config
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP9Lab3Pt2\bin\Debug\TP9Lab3Pt2.exe
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP9Lab3Pt2\bin\Debug\TP9Lab3Pt2.pdb
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP9Lab3Pt2\obj\Debug\TP9Lab3Pt2.csproj.AssemblyReference.cache
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP9Lab3Pt2\obj\Debug\TP9Lab3Pt2.csproj.CoreCompileInputs.cache
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP9Lab3Pt2\obj\Debug\TP9Lab3Pt2.exe
+F:\CosasDiscoViejo\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP9Lab3Pt2\obj\Debug\TP9Lab3Pt2.pdb

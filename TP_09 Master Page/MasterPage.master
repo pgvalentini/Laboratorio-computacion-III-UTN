@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <a href="Default.aspx">Opcion 1</a>
+             </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="Default2.aspx">Opcion 2</a>
+            </td>          
+        </tr>
+        <tr>
+            <td>
+                <a href="Default3.aspx">Opcion 3</a>
+            </td> 
+        </tr>
+    </table>
+    <form id="form1" runat="server">
+    <div>
+    </div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
